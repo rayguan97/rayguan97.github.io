@@ -42,15 +42,11 @@
     </p>
     
     {% if post.teaser %}
-      <div class="archive__item-teaser">
+      <!-- <div class="archive__item-teaser"> -->
         <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
+            "{{ post.teaser }}"
           alt="">
-      </div>
+      <!-- </div> -->
     {% endif %}
 
     {% if post.read_time %}
@@ -73,6 +69,7 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
+
     <!-- {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
@@ -82,4 +79,6 @@
     {% endif %} -->
 
   </article>
+  <hr style="height: 3px;background-color:grey">
+
 </div>

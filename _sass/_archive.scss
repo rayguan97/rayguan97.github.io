@@ -27,6 +27,7 @@
   }
 }
 
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
@@ -38,6 +39,7 @@
     margin-top: 0.5em;
   }
 }
+
 
 .archive__item-title {
   margin-bottom: 0.25em;
@@ -88,6 +90,7 @@
 /*
    List view
    ========================================================================== */
+
 
 .list__item {
   @include breakpoint($medium) {
