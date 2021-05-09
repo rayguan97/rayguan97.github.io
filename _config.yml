@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-update                   : "May 08, 2021"
+update                   : "May 09, 2021"
 locale                   : "en-US"
 title                    : "Tianrui Guan"
 title_separator          : "-"
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=_7mX21UAAAAJ&hl=en"
   # email            :  "ray<LastName>@umd.edu"
   # researchgate     :  "https://www.researchgate.net/profile/Tianrui-Guan-2"
-  uri              :
+  uri              : "https://rayguan97.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
