@@ -13,10 +13,13 @@ You may find my resume <a href="http://rayguan97.github.io/files/resume.pdf">her
 
 Education
 ======
-* Ph.D in University of Maryland, College Park, 2024 (expected)
-* M.S. in University of Maryland, College Park, 2021
-* B.S. in University of Maryland, College Park, 2019
-
+* Ph.D in Computer Science, University of Maryland, College Park, 2024 (expected) <br>
+    Adviser: [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
+* M.S. in Computer Science, University of Maryland, College Park, 2021  <br>
+    Adviser: [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
+* B.S. in Computer Science and Statistics, University of Maryland, College Park, 2019 <br>
+    Graduated with Magna Cum Laude Latin Honor (GPA: 3.97/4)
+    
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -26,7 +29,17 @@ Publications
 
 Work experience
 ======
-* xxxxxx
-  * xxxx
-  * xxxx
-  * xxxx
+* **Research Intern**, Baidu USA, Sunnyvalue, CA   (In progress)  <br>
+  *Summer 2021*
+
+* **Research Assistant**, [GAMMA group](https://gamma.umd.edu/), University of Maryland, College Park, MD <br>
+  *Summer 2019 -- Present*
+
+* **Teaching Assistant**, University of Maryland, College Park, MD <br>
+  *Fall 2018 -- Present*
+  * CMSC420 - Data Structure
+
+* **Software Testing Intern**, Advanced Geophysical Technology, Houston, TX <br>
+  *Summer 2017*
+  * Provided solutions for GUI Test Automation for NoveSeis (an internal software).
+  * Explored squish for Qt, froglogic and Sikuli Script for automated testing
