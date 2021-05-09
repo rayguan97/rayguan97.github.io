@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Tianrui Guan(关天瑞), a Ph.D. student at Unviersity of Maryland, College Park, and a group member of [GAMMA](https://gamma.umd.edu/) since 2019. I am advised by Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha). I joined the University of Maryland since 2016 as an undergraduate student. I received my B.S. in Computer Science and Statistics at [UMD](https://www.cs.umd.edu/) in 2019 with Magna Cum Laude Latin Honor, and continued as a graduate student in Computer Science. 
+My name is Tianrui Guan (关天瑞), a Ph.D. student at Unviersity of Maryland, College Park, and a group member of [GAMMA](https://gamma.umd.edu/) since 2019. I am advised by Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha). I joined the University of Maryland since 2016 as an undergraduate student. I received my B.S. in Computer Science and Statistics at [UMD](https://www.cs.umd.edu/) in 2019 with Magna Cum Laude Latin Honor, and continued as a graduate student in Computer Science. 
 
 Here is my [resume](http://rayguan97.github.io/files/resume.pdf). Please feel free to reach out to rayguan [at] umd.edu.
 
