@@ -18,7 +18,7 @@ author_profile: true
 
 ## Other Publications
 
-{% for post in site.other_publications reversed %}
+{% for post in site.other-publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
