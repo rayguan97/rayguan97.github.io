@@ -2,10 +2,11 @@
 title: "DenseCAvoid: Real-time Navigation in Dense Crowds using Anticipatory Behaviors"
 collection: other-publications
 permalink: /other-publication/2020-02-07-denseCAvoid
-excerpt: 'We present DenseCAvoid, a novel algorithm for navigating a robot through dense crowds and avoiding collisions by anticipating pedestrian behaviors. Our formulation uses visual sensors and a pedestrian trajectory prediction algorithm to track pedestrians in a set of input frames and compute bounding boxes that extrapolate to the pedestrian positions in a future time. Our hybrid approach combines this trajectory prediction with a Deep Reinforcement Learning-based collision avoidance method to train a policy to generate smoother, safer, and more robust trajectories during run-time.'
+# excerpt: 'We present DenseCAvoid, a novel algorithm for navigating a robot through dense crowds and avoiding collisions by anticipating pedestrian behaviors. Our formulation uses visual sensors and a pedestrian trajectory prediction algorithm to track pedestrians in a set of input frames and compute bounding boxes that extrapolate to the pedestrian positions in a future time. Our hybrid approach combines this trajectory prediction with a Deep Reinforcement Learning-based collision avoidance method to train a policy to generate smoother, safer, and more robust trajectories during run-time.'
 date: 2020-02-07
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 'http://rayguan97.github.io/files/denseCAvoid.pdf'
+skip: "yes"
 # teaser: '../images/tnp_teaser.png'
 authors: "Adarsh Jagan Sathyamoorthy*, Jing Liang*, Utsav Patel, <b>Tianrui Guan</b>, Rohan Chandra, and Dinesh Manocha"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
