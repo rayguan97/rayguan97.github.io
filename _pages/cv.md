@@ -29,7 +29,7 @@ Publications
 
 Work experience
 ======
-* **Research Intern**, Baidu USA, Sunnyvalue, CA   (In progress)  <br>
+* **Research Intern**, Baidu USA, Sunnyvalue, CA  <br>
   *Summer 2021*
 
 * **Research Assistant**, [GAMMA group](https://gamma.umd.edu/), University of Maryland, College Park, MD <br>
