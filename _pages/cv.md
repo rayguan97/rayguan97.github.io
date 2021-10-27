@@ -20,12 +20,6 @@ Education
 * B.S. in Computer Science and Statistics, University of Maryland, College Park, 2019 <br>
     Graduated with Magna Cum Laude Latin Honor (GPA: 3.97/4)
     
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Reviewer Duty
 ======
 * IROS 2021, 2020, Reviewer
@@ -48,3 +42,10 @@ Work experience
   *Summer 2017*
   * Provided solutions for GUI Test Automation for NoveSeis (an internal software).
   * Explored squish for Qt, froglogic and Sikuli Script for automated testing
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
