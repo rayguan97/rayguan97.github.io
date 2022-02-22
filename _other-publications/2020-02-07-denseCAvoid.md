@@ -5,7 +5,7 @@ permalink: /other-publication/2020-02-07-denseCAvoid
 # excerpt: 'We present DenseCAvoid, a novel algorithm for navigating a robot through dense crowds and avoiding collisions by anticipating pedestrian behaviors. Our formulation uses visual sensors and a pedestrian trajectory prediction algorithm to track pedestrians in a set of input frames and compute bounding boxes that extrapolate to the pedestrian positions in a future time. Our hybrid approach combines this trajectory prediction with a Deep Reinforcement Learning-based collision avoidance method to train a policy to generate smoother, safer, and more robust trajectories during run-time.'
 date: 2020-02-07
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
-paperurl: 'https://arxiv.org/abs/2002.03038'
+paperurl: 'http://rayguan97.github.io/files/denseCAvoid.pdf'
 skip: "yes"
 # teaser: '../images/tnp_teaser.png'
 authors: "Adarsh Jagan Sathyamoorthy*, Jing Liang*, Utsav Patel, <b>Tianrui Guan</b>, Rohan Chandra, and Dinesh Manocha"
@@ -22,11 +22,11 @@ authors: "Adarsh Jagan Sathyamoorthy*, Jing Liang*, Utsav Patel, <b>Tianrui Guan
 <br>
 
 ## Video
-<!-- <iframe width="720" height="405" src="https://www.youtube.com/embed/AsUbng-E8gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="720" height="405" src="https://www.youtube.com/embed/AsUbng-E8gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
-The paper is available [here](https://arxiv.org/abs/2002.03038). Please cite our work if you found it useful,
+The paper is available [here](http://rayguan97.github.io/files/denseCAvoid.pdf). Please cite our work if you found it useful,
 
 ```
 @INPROCEEDINGS{9197379,
