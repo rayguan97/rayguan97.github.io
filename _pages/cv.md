@@ -22,9 +22,11 @@ Education
     
 Reviewer Duty
 ======
-* IROS 2021, 2020, Reviewer
-* ICRA 2022, 2021, Reviewer
-
+* IROS 2022, 2021, 2020
+* ICRA 2022, 2021
+* CVPR 2022
+* ECCV 2022
+* RAL
 
 Work experience
 ======
