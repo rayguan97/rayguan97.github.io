@@ -14,7 +14,8 @@ You may find my resume <a href="http://rayguan97.github.io/files/resume.pdf">her
 Education
 ======
 * Ph.D in Computer Science, University of Maryland, College Park, 2024 (expected) <br>
-    Adviser: [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
+    <!-- Adviser: [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
+             [Ming Lin](https://www.cs.umd.edu/people/lin) -->
 * M.S. in Computer Science, University of Maryland, College Park, 2021  <br>
     Adviser: [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
 * B.S. in Computer Science and Statistics, University of Maryland, College Park, 2019 <br>
@@ -31,7 +32,7 @@ Reviewer Duty
 Work experience
 ======
 * **Research Intern**, Baidu USA, Sunnyvalue, CA  <br>
-  *Summer 2021*
+  *Summer 2021, 2022*
 
 * **Research Assistant**, [GAMMA group](https://gamma.umd.edu/), University of Maryland, College Park, MD <br>
   *Summer 2019 -- Present*

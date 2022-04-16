@@ -25,7 +25,8 @@ Please check list of publications [here](http://rayguan97.github.io/publications
 Education
 ======
 * Ph.D in Computer Science, University of Maryland, College Park, 2024 (expected) <br>
-    Adviser: [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
+    <!-- Adviser: [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
+             [Ming Lin](https://www.cs.umd.edu/people/lin) -->
 * M.S. in Computer Science, University of Maryland, College Park, 2021  <br>
     Adviser: [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
 * B.S. in Computer Science and Statistics, University of Maryland, College Park, 2019 <br>
