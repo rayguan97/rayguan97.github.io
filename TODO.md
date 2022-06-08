@@ -1,3 +1,0 @@
-* theme: https://github.com/academicpages/academicpages.github.io/issues/137
-* top bar sticky
-* ...
