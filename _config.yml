@@ -86,7 +86,7 @@ author:
   bio              : "PhD student at University of Maryland, Colelge Park |<br> A group member of <a href=\"https://gamma.umd.edu/\">GAMMA</a> <br><br>email: rayguan [at] umd.edu"
   location         : "College Park, MD"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=_7mX21UAAAAJ&hl=en"
+  # googlescholar    : "https://scholar.google.com/citations?user=_7mX21UAAAAJ&hl=en"
   # email            :  "ray<LastName>@umd.edu"
   # researchgate     :  "https://www.researchgate.net/profile/Tianrui-Guan-2"
   uri              : "https://rayguan97.github.io"
