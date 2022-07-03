@@ -27,6 +27,7 @@ Reviewer Duty
 * ICRA 2022, 2021
 * CVPR 2022
 * ECCV 2022
+* 3DV 2022
 * RAL
 
 Work experience
