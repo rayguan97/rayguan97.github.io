@@ -28,6 +28,7 @@ Reviewer Duty
 * CVPR 2022
 * ECCV 2022
 * 3DV 2022
+* WACV 2023
 * RAL
 
 Work experience
