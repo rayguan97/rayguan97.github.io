@@ -4,7 +4,7 @@ collection: other-publications
 permalink: /other-publication/2020-02-07-denseCAvoid
 # excerpt: 'We present DenseCAvoid, a novel algorithm for navigating a robot through dense crowds and avoiding collisions by anticipating pedestrian behaviors. Our formulation uses visual sensors and a pedestrian trajectory prediction algorithm to track pedestrians in a set of input frames and compute bounding boxes that extrapolate to the pedestrian positions in a future time. Our hybrid approach combines this trajectory prediction with a Deep Reinforcement Learning-based collision avoidance method to train a policy to generate smoother, safer, and more robust trajectories during run-time.'
 date: 2020-02-07
-venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
+venue: 'IEEE International Conference on Robotics and Automation (ICRA 2020)'
 paperurl: 'https://arxiv.org/abs/2002.03038'
 skip: "yes"
 # teaser: '../images/tnp_teaser.png'
@@ -29,14 +29,11 @@ authors: "Adarsh Jagan Sathyamoorthy*, Jing Liang*, Utsav Patel, <b>Tianrui Guan
 The paper is available [here](https://arxiv.org/abs/2002.03038). Please cite our work if you found it useful,
 
 ```
-@INPROCEEDINGS{9197379,
-  author={Sathyamoorthy, Adarsh Jagan and Liang, Jing and Patel, Utsav and Guan, Tianrui and Chandra, Rohan and Manocha, Dinesh},
-  booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)}, 
-  title={DenseCAvoid: Real-time Navigation in Dense Crowds using Anticipatory Behaviors}, 
+@article{Sathyamoorthy2020DenseCAvoidRN,
+  title={DenseCAvoid: Real-time Navigation in Dense Crowds using Anticipatory Behaviors},
+  author={Adarsh Jagan Sathyamoorthy and Jing Liang and Utsav Patel and Tianrui Guan and Rohan Chandra and Dinesh Manocha},
+  journal={2020 IEEE International Conference on Robotics and Automation (ICRA)},
   year={2020},
-  volume={},
-  number={},
-  pages={11345-11352},
-  doi={10.1109/ICRA40945.2020.9197379}
+  pages={11345-11352}
 }
 ```
