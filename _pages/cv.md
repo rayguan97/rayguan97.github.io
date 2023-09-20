@@ -13,7 +13,7 @@ You may find my resume <a href="http://rayguan97.github.io/files/resume.pdf">her
 
 Education
 ======
-* Ph.D in Computer Science, University of Maryland, College Park, 2024 (expected) <br>
+* Ph.D in Computer Science, University of Maryland, College Park, 2025 (expected) <br>
     <!-- Adviser: [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
              [Ming Lin](https://www.cs.umd.edu/people/lin) -->
 * M.S. in Computer Science, University of Maryland, College Park, 2021  <br>
@@ -23,12 +23,13 @@ Education
     
 Reviewer Duty
 ======
-* IROS 2022, 2021, 2020
-* ICRA 2022, 2021
-* CVPR 2022
+* IROS 2023, 2022, 2021, 2020
+* ICRA 2023, 2022, 2021
+* CVPR 2023, 2022
+* ICCV 2023
 * ECCV 2022
 * 3DV 2022
-* WACV 2023
+* WACV 2024, 2023
 * RAL
 
 Work experience
