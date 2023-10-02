@@ -55,11 +55,14 @@ News
 <style>
 table {
     border-collapse: collapse!important;
+    font-size: 13px;
 }
 td, th {
    border: none!important;
 }
 </style>
+
+
 | Timeline / Date         |   Updates   | 
 | ----------------------  | ----------- | 
 | **Sep 2023:** | One paper was accepted to RAL!  |
