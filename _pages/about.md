@@ -23,12 +23,29 @@ Research Interest
 
 Please check list of publications [here](http://rayguan97.github.io/publications/).
 
-Education
+News
 ======
-* Ph.D in Computer Science, University of Maryland, College Park, 2025 (expected) <br>
-    <!-- Adviser: [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
-             [Ming Lin](https://www.cs.umd.edu/people/lin) -->
-* M.S. in Computer Science, University of Maryland, College Park, 2021  <br>
-    Adviser: [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha)
-* B.S. in Computer Science and Statistics, University of Maryland, College Park, 2019 <br>
-    Graduated with Magna Cum Laude Latin Honor (GPA: 3.97/4)
+* Computer Vision
+* Autonomous Driving
+* Robotics and Perception
+* VLM
+
+<div style="overflow:auto;">
+<table>
+<col width="630px">
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td></tr>
