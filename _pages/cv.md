@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: "CV"
 permalink: /files/resume.pdf
 order: 3
 ---
