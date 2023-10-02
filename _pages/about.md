@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /publications/
 ---
 
 My name is Tianrui Guan (关天瑞), a Ph.D. student at Unviersity of Maryland, College Park, and a group member of [GAMMA](https://gamma.umd.edu/) since 2019. I am advised by Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha).
