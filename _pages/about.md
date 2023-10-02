@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tianrui Guan"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -32,11 +32,15 @@ table {
     border: none!important;
 }
 td, th {
-   border: none!important;
+    border: none!important;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  /* padding-left: 30px;
+  padding-right: 40px; */
 }
 </style>
 
-<div style="height:400px;overflow:auto;">
+<div style="height:500px;overflow:auto;">
 <table>
 <col width="110px">
 <!-- <col width="630px"> -->
