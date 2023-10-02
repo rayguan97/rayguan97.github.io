@@ -72,5 +72,8 @@ td, th {
 Publications<a id="pub"></a>
 ======
 
-Testing
-Testing
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
