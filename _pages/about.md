@@ -25,10 +25,6 @@ Please check list of publications [here](http://rayguan97.github.io/publications
 
 News
 ======
-* Computer Vision
-* Autonomous Driving
-* Robotics and Perception
-* VLM
 
 <div style="overflow:auto;">
 <table>
