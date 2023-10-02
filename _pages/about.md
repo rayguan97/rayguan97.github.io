@@ -65,23 +65,23 @@ td, th {
 
 | Timeline / Date         |   Updates   | 
 | ----------------------  | ----------- | 
-| **Sep 2023:** | One paper was accepted to RAL!  |
-| **Aug 2023:** | One paper was accepted to CoRL 2023 with oral presentation!  |
-| **Jul 2023:** | One paper was accepted to ICCV 2023!     |
-| **Jun 2023:** | One paper was accepted to IROS 2023!     |
-| **May 2023:** | One paper was accepted to Autonomous Robots, Springer Nature!    |
-| **May 2023:** | Started as a Research Scientist Intern at Amazon Lab126!    |
-| **Jan 2023:** | Two paper was accepted to ICRA 2023!     |
-| **Dec 2022:** | Two paper was accepted to RAL this year! |
-| **Jul 2022:** | One paper was accepted to ECCV 2022!    |
-| **May 2022:** | Presented my work on ICRA 2022, construction workshop!    |
-| **May 2022:** | Started as a Research Scientist Intern at Robotics and Autonomous Driving Lab, Baidu USA!    |
-| **Apr 2022:** | One paper was accepted to RSS 2022!    |
+| **Sep 2023:** | One paper was accepted to **RAL**!  |
+| **Aug 2023:** | One paper was accepted to **CoRL** 2023 with **oral** presentation!  |
+| **Jul 2023:** | One paper was accepted to **ICCV** 2023!     |
+| **Jun 2023:** | One paper was accepted to **IROS** 2023!     |
+| **May 2023:** | One paper was accepted to **Autonomous Robots**, Springer Nature!    |
+| **May 2023:** | Started as a Research Scientist Intern at **Amazon Lab126**!    |
+| **Jan 2023:** | Two paper was accepted to **ICRA** 2023!     |
+| **Dec 2022:** | Two paper was accepted to **RAL** this year! |
+| **Jul 2022:** | One paper was accepted to **ECCV** 2022!    |
+| **May 2022:** | Presented my work on **ICRA** 2022, construction workshop!    |
+| **May 2022:** | Started as a Research Scientist Intern at **Robotics and Autonomous Driving Lab**, Baidu USA!    |
+| **Apr 2022:** | One paper was accepted to **RSS** 2022!    |
 | **Dec 2021:** | Successfully defended my MS thesis and started my PhD journey!    |
-| **Oct 2021:** | One paper was accepted to WACV 2022!    |
-| **Jun 2021:** | One paper was accepted to IROS 2022!    |
-| **Jun 2021:** | One paper was accepted to RAL!  |
-| **May 2021:** | Started as a Research Scientist Intern at Robotics and Autonomous Driving Lab, Baidu USA!    |
-| **Dec 2020:** | Two paper was accepted to RAL this year! |
-| **Jan 2020:** | One paper was accepted to ICRA! |
+| **Oct 2021:** | One paper was accepted to **WACV** 2022!    |
+| **Jun 2021:** | One paper was accepted to **IROS** 2022!    |
+| **Jun 2021:** | One paper was accepted to **RAL**!  |
+| **May 2021:** | Started as a Research Scientist Intern at **Robotics and Autonomous Driving Lab**, Baidu USA!    |
+| **Dec 2020:** | Two paper was accepted to **RAL** this year! |
+| **Jan 2020:** | One paper was accepted to **ICRA**! |
 
