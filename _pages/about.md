@@ -26,7 +26,7 @@ Please check list of publications [here](http://rayguan97.github.io/publications
 News
 ======
 
-<style>
+<!-- <style>
   table#timeline-table td{
     border: none;
   }
@@ -50,12 +50,19 @@ News
       <td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
-
-<!-- | Timeline  |   Updates   | 
+<style>
+table {
+    border-collapse: collapse;
+}
+td, th {
+   border: none!important;
+}
+</style>
+| Timeline  |   Updates   | 
 | -----------  | ----------- | 
-| May 2023:| Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!    |
-| May 2023: | Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!    |
-| May 2023: | Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!    |
- -->
+| **May 2023:** | Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!    |
+| **May 2023:** | Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!    |
+| **May 2023:** | Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!    |
+
