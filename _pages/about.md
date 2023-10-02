@@ -67,3 +67,10 @@ td, th {
   <tr><td><b>Aug 2019:</b></td><td>Started MS at University of Maryland, College Park!</td></tr>
   <tr><td><b>May 2019:</b></td><td>Started at GAMMA Lab as a ugrad and worked on TrackNPred!</td></tr>
 
+
+
+<a id="pub">Publications</a>
+======
+
+Testing
+Testing
