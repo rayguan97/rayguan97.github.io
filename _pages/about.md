@@ -29,6 +29,7 @@ News
 table {
     border-collapse: collapse!important;
     font-size: 18px!important;
+    border: none!important;
 }
 td, th {
    border: none!important;
@@ -37,9 +38,9 @@ td, th {
 
 <div style="height:400px;overflow:auto;">
 <table>
-<col width="150px">
+<col width="110px">
 <!-- <col width="630px"> -->
-  <tr><td><b>Timeline:</b></td><td><b>Updates</b></td></tr>
+  <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
   <tr><td><b>Sep 2023:</b></td><td>One paper was accepted to <b>RAL</b>!</td></tr>
   <tr><td><b>Aug 2023:</b></td><td>One paper was accepted to <b>CoRL</b> 2023 with <b>oral</b> presentation!</td></tr>
   <tr><td><b>Jul 2023:</b></td><td>One paper was accepted to <b>ICCV</b> 2023!</td></tr>
