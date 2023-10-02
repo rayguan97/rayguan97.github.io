@@ -27,15 +27,31 @@ News
 ======
 
 <style>
-td, th {
-   border: none!important;
-}
+  table#timeline-table td {
+    border: none;
+  }
 </style>
+<table id="timeline-table">
+  <tbody>
+    <tr>
+      <td>Timeline</td>
+      <td>Updates</td>
+    </tr>
+    <tr>
+      <td>May 2023:</td>
+      <td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td>
+    </tr>
+      <tr>
+      <td>May 2023:</td>
+      <td>Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!</td>
+    </tr>
+  </tbody>
+</table>
 
 
-| Timeline  |   Update   | 
+<!-- | Timeline  |   Updates   | 
 | -----------  | ----------- | 
 | May 2023:| Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!    |
 | May 2023: | Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!    |
 | May 2023: | Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!    |
-
+ -->
