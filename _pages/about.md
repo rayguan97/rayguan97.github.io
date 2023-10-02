@@ -69,7 +69,7 @@ td, th {
 
 
 
-<a id="pub">Publications</a>
+Publications<a id="pub"></a>
 ======
 
 Testing
