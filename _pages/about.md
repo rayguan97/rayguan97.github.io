@@ -71,7 +71,6 @@ td, th {
 </div>
 
 <br>
-<br>
 
 Publications<a id="pub"></a>
 ======
