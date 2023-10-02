@@ -4,8 +4,11 @@ main:
   - title: "About Me"
     url: /
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
+
+  - title: "About Me"
+    url: /#pub
 
   - title: "CV"
     url: /files/resume.pdf
