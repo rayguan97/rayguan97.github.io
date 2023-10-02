@@ -86,18 +86,16 @@ td, th {
 | **Jan 2020:** | One paper was accepted to **ICRA**! |
  -->
 
-<div style="height:275px;overflow:auto;">
+<div style="height:400px;overflow:auto;">
 <table>
-<col width="100px">
 <col width="630px">
-  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
-  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
-  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
-  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
-  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
-  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
-  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
-  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
-  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
-  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
+  <tr><td><b>Timeline / Date:</b></td><td><b>Updates</b></td></tr>
+  <tr><td><b>Sep 2023:</b></td><td>One paper was accepted to <b>RAL</b>!</td></tr>
+  <tr><td><b>Aug 2023:</b></td><td>One paper was accepted to <b>CoRL</b> 2023 with <b>oral</b> presentation!</td></tr>
+  <tr><td><b>Jul 2023:</b></td><td>One paper was accepted to <b>ICCV</b> 2023!</td></tr>
+  <tr><td><b>Jun 2023:</b></td><td>One paper was accepted to <b>IROS</b> 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>One paper was accepted to <b>Autonomous Robots</b>, Springer Nature!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>Started as a Research Scientist Intern at <b>Amazon Lab126</b>!</td></tr>
+  <tr><td><b>Jan 2023:</b></td><td>Two paper was accepted to <b>ICRA</b> 2023!</td></tr>
+
 
