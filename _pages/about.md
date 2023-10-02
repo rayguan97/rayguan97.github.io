@@ -66,7 +66,8 @@ td, th {
   <tr><td><b>Jan 2020:</b></td><td>One paper was accepted to <b>ICRA</b>!</td></tr>
   <tr><td><b>Aug 2019:</b></td><td>Started MS at University of Maryland, College Park!</td></tr>
   <tr><td><b>May 2019:</b></td><td>Started at GAMMA Lab as a ugrad and worked on TrackNPred!</td></tr>
-
+</table>
+</div>
 
 
 Publications<a id="pub"></a>
