@@ -27,19 +27,13 @@ News
 ======
 
 <style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
 td, th {
    border: none!important;
 }
 </style>
 
 
-|  <div style="width:100px;">Timeline</div>  |   Update   | 
+| Timeline  |   Update   | 
 | -----------  | ----------- | 
 | May 2023:| Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!    |
 | May 2023: | Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023! Our paper was accepted to ICCV 2023!    |
