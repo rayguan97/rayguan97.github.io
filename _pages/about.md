@@ -55,7 +55,7 @@ News
 <style>
 table {
     border-collapse: collapse!important;
-    font-size: 13px;
+    font-size: 18px!important;
 }
 td, th {
    border: none!important;
