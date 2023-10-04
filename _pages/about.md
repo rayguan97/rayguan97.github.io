@@ -48,11 +48,11 @@ td, th {
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
   <tr><td><b>Sep 2023:</b></td><td><a href="/graspe">GrASPE</a> paper was accepted to <b>RAL</b>!</td></tr>
   <tr><td><b>Aug 2023:</b></td><td><a href="/iplan">iPlan</a> was accepted to <b>CoRL</b> 2023 with <strong style="color:red">oral (6.6%)</strong> presentation!</td></tr>
-  <tr><td><b>Jul 2023:</b></td><td>One paper was accepted to <b>ICCV</b> 2023!</td></tr>
-  <tr><td><b>Jun 2023:</b></td><td>One paper was accepted to <b>IROS</b> 2023!</td></tr>
-  <tr><td><b>May 2023:</b></td><td>One paper was accepted to <b>Autonomous Robots</b>, Springer Nature!</td></tr>
+  <tr><td><b>Jul 2023:</b></td><td><a href="/crossloc3d">Crossloc3D</a> was accepted to <b>ICCV</b> 2023!</td></tr>
+  <tr><td><b>Jun 2023:</b></td><td><a href="/vern">VERN</a> was accepted to <b>IROS</b> 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td><a href="https://link.springer.com/article/10.1007/s10514-023-10113-9">TNES</a>was accepted to <b>Autonomous Robots</b>, Springer Nature!</td></tr>
   <tr><td><b>May 2023:</b></td><td>Started as a Research Scientist Intern at <b>Amazon Lab126</b>!</td></tr>
-  <tr><td><b>Jan 2023:</b></td><td>Two paper was accepted to <b>ICRA</b> 2023!</td></tr>
+  <tr><td><b>Jan 2023:</b></td><td><a href="/vinet">VINet</a> and <a href="/aztr">AZTR</a> were accepted to <b>ICRA</b> 2023!</td></tr>
   <tr><td><b>Dec 2022:</b></td><td>Two paper was accepted to <b>RAL</b> this year!</td></tr>
   <tr><td><b>Jul 2022:</b></td><td>One paper was accepted to <b>ECCV</b> 2022!</td></tr>
   <tr><td><b>May 2022:</b></td><td>Presented my work on <b>ICRA</b> 2022, construction workshop!</td></tr>
