@@ -27,11 +27,11 @@ Please check list of publications [here](http://rayguan97.github.io/publications
 News
 ======
 <style>
-table {
+/* table {
     border-collapse: collapse!important;
     font-size: 18px!important;
     border: none!important;
-}
+} */
 td, th {
     border: none!important;
     padding-top: 0px;
