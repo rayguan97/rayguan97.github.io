@@ -15,7 +15,7 @@
       {% endif %}
     <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
       <td style="padding:10px;width:25%;vertical-align:middle">
-          <img src="{{ post.teaser }}" alt="N/A" style="border-style: none" width="220">
+          <img src="{{ post.teaser }}" alt="" style="border-style: none" width="220">
         </td>
         <td style="padding:10px;width:75%;vertical-align:middle">
           <papertitle><b>{{ title }}</b>
@@ -25,9 +25,9 @@
           {{ post.authors }}
           {% endif %}
           <br>
-          <em>{{ post.venue }} 
+          <em>{{ post.venue }}
           {% if post.short %}
-          (<strong>{{ post.short }}</strong>)
+           (<strong>{{ post.short }}</strong>)
           {% endif %}
           , {{ post.date | default: "1900-01-01" | date: "%Y" }}.
           {% if post.note %}
