@@ -2,7 +2,7 @@
 
 <table style="font-size:15px;width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
-    {% assign list = site.publications | sort %}
+    {% assign list = site.publications + site.other-publications | sort %}
     {% for post in list reversed %}
       {% if post.header.teaser %}
         {% capture teaser %}{{ post.header.teaser }}{% endcapture %}

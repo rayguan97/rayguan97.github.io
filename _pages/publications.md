@@ -7,6 +7,14 @@ author_profile: true
 #   - /#pub
 ---
 
+<style>
+td, th {
+    border: none!important;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  /* padding-left: 30px;
+  padding-right: 40px; */
+}
 
 {% include base_path %}
 
