@@ -1,0 +1,58 @@
+
+
+<table style="font-size:15px;width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+
+    {% for post in site.other-publications reversed %}
+      {% if post.header.teaser %}
+        {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+      {% else %}
+        {% assign teaser = site.teaser %}
+      {% endif %}
+      {% if post.id %}
+        {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+      {% else %}
+        {% assign title = post.title %}
+      {% endif %}
+    <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+      <td style="padding:10px;width:25%;vertical-align:middle">
+          <img src="{{ post.teaser }}" alt="" style="border-style: none" width="220">
+        </td>
+        <td style="padding:10px;width:75%;vertical-align:middle">
+          <papertitle><b>{{ title }}</b>
+          </papertitle>
+          <br>
+          {% if post.authors %}
+          {{ post.authors }}
+          {% endif %}
+          <br>
+          <br>
+          <em>{{ post.venue }}
+          {% if post.short %}
+           (<strong>{{ post.short }}</strong>)
+          {% endif %}
+          {{ post.date | default: "1900-01-01" | date: "%Y" }}.
+          {% if post.note %}
+          <strong style="color:red">{{ post.note }}</strong>
+          {% endif %}
+          </em>
+          <br>
+          {% if post.workshop %}
+          <em>{{ post.workshop }}</em><br>
+          {% endif %}
+          {% if post.paperurl %}
+          <a href="{{ post.paperurl }}">[paper]</a>
+          {% endif %}
+          {% if post.permalink %}
+          <a href="{{ post.permalink }}">[webpage]</a>
+          {% endif %}
+          {% if post.code %}
+          <a href="{{ post.code }}">[code]</a>
+          {% endif %}      
+          <br>
+      </td>
+    </tr>
+    {% endfor %}
+
+  </tbody>
+</table>
