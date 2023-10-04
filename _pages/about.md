@@ -47,7 +47,7 @@ td, th {
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
   <tr><td><b>Sep 2023:</b></td><td>One paper was accepted to <b>RAL</b>!</td></tr>
-  <tr><td><b>Aug 2023:</b></td><td>One paper was accepted to <b>CoRL</b> 2023 with <b>oral</b> presentation!</td></tr>
+  <tr><td><b>Aug 2023:</b></td><td>One paper was accepted to <b>CoRL</b> 2023 with <strong style="color:red">oral (6.6%)</strong> presentation!</td></tr>
   <tr><td><b>Jul 2023:</b></td><td>One paper was accepted to <b>ICCV</b> 2023!</td></tr>
   <tr><td><b>Jun 2023:</b></td><td>One paper was accepted to <b>IROS</b> 2023!</td></tr>
   <tr><td><b>May 2023:</b></td><td>One paper was accepted to <b>Autonomous Robots</b>, Springer Nature!</td></tr>
@@ -77,6 +77,59 @@ Publications<a id="pub"></a>
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include archive-compact.html %}
+
+
+
+<!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+  <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+    <td style="padding:10px;width:20%;vertical-align:middle">
+        <img src="images/COVERS.png" alt="hpp" style="border-style: none" width="220">
+      </td>
+      <td style="padding:10px;width:80%;vertical-align:middle">
+        <p>
+        <papertitle>paper title
+        </papertitle>
+        </p>
+        xxxx xx<span style="text-transform:uppercase">*</span>,
+        <strong>xxxx xx<span style="text-transform:uppercase">*</span></strong>,
+        <a href="https://xxxx/"><author>xxxx xxxx</author></a>,
+        xxxxx, xx,
+        <br>
+        <em>Conference on Robot Learning (<strong>CoRL</strong>), 2023. <strong style="color:red">(oral, 6.6%)</strong> <span style="text-transform:uppercase">*</span> indicates equal contribution. </em>
+        <br>
+        <em>Abridged in RSS 2023 Workshop on Symmetries in Robot Learning.</em><br>
+        <a href="https://arxiv.org/pdf/xxxxx">[paper]</a>
+        <a href="https://xxxxxx">[webpage]</a>
+    </td>
+  </tr>
+</table> -->
+
+
+
+<!-- template -->
+<!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+  <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+    <td style="padding:10px;width:20%;vertical-align:middle">
+        <img src="images/COVERS.png" alt="hpp" style="border-style: none" width="220">
+      </td>
+      <td style="padding:10px;width:80%;vertical-align:middle">
+        <p>
+        <papertitle>paper title
+        </papertitle>
+        </p>
+        xxxx xx<span style="text-transform:uppercase">*</span>,
+        <strong>xxxx xx<span style="text-transform:uppercase">*</span></strong>,
+        <a href="https://xxxx/"><author>xxxx xxxx</author></a>,
+        xxxxx, xx,
+        <br>
+        <em>Conference on Robot Learning (<strong>CoRL</strong>), 2023. <strong style="color:red">(oral, 6.6%)</strong> <span style="text-transform:uppercase">*</span> indicates equal contribution. </em>
+        <br>
+        <em>Abridged in RSS 2023 Workshop on Symmetries in Robot Learning.</em><br>
+        <a href="https://arxiv.org/pdf/xxxxx">[paper]</a>
+        <a href="https://xxxxxx">[webpage]</a>
+    </td>
+  </tr>
+</table> -->
