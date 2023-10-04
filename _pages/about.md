@@ -82,8 +82,6 @@ Selected Publications<a id="pub"></a>
 {% include archive-compact.html %}
 
 
-You can also find more articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
-
 <!-- template -->
 <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
