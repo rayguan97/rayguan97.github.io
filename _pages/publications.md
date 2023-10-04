@@ -1,25 +1,27 @@
-<!-- ---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-# redirect_to: 
-#   - /#pub
 ---
 
-<style>
-td, th {
-    border: none!important;
-    padding-top: 0px;
-    padding-bottom: 0px;
-  /* padding-left: 30px;
-  padding-right: 40px; */
-}
-</style>
+
+
 
 {% include base_path %}
 
-{% include archive-compact-all.html %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
-You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.  -->
+
+## Other Publications
+
+{% for post in site.other-publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% if site.author.googlescholar %}
+You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+{% endif %}
