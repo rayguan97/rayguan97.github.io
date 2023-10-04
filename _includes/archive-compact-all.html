@@ -3,16 +3,16 @@
 <table style="font-size:15px;width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
     {% assign __list = __empty_array %}
-    {% for __element in site.publications %}
+    <!-- {% for __element in site.publications %}
       {% assign __list = __list | push: __element %}
-    {% endfor %}
+    {% endfor %} -->
     {% for __element in site.other-publications %}
       {% assign __list = __list | push: __element %}
     {% endfor %}
     
-    {% assign __list = site.other-publications | sort %}
+    <!-- {% assign __list = site.other-publications | sort %} -->
 
-    {% for post in other-publications reversed %}
+    {% for post in __list reversed %}
       {% if post.header.teaser %}
         {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
       {% else %}
