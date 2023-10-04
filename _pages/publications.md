@@ -15,6 +15,7 @@ td, th {
   /* padding-left: 30px;
   padding-right: 40px; */
 }
+</style>
 
 {% include base_path %}
 
