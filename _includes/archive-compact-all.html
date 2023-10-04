@@ -6,9 +6,6 @@
     {% for __element in site.other-publications %}
       {% assign __list = __list | push: __element %}
     {% endfor %}
-    {% for __element in site.publications %}
-      {% assign __list = __list | push: __element %}
-    {% endfor %}
 
 
     {% for post in __list reversed %}
@@ -44,6 +41,9 @@
           {% endif %}
           </em>
           <br>
+          {% if post.workshop %}
+          <em>{{ post.workshop }}</em><br>
+          {% endif %}
           {% if post.paperurl %}
           <a href="{{ post.paperurl }}">[paper]</a>
           {% endif %}

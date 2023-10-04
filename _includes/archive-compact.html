@@ -35,6 +35,9 @@
           {% endif %}
           </em>
           <br>
+          {% if post.workshop %}
+          <em>{{ post.workshop }}</em><br>
+          {% endif %}
           {% if post.paperurl %}
           <a href="{{ post.paperurl }}">[paper]</a>
           {% endif %}
