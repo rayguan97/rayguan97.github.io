@@ -39,6 +39,7 @@ td, th {
   /* padding-left: 30px;
   padding-right: 40px; */
 }
+
 </style>
 
 <div style="height:500px;overflow:auto;">
