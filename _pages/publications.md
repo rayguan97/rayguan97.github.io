@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 # redirect_to: 
@@ -19,7 +19,12 @@ td, th {
 
 {% include base_path %}
 
-{% include archive-compact-all.html %}
+{% include archive-compact.html %}
+
+Other Publications
+======
+
+{% include archive-compact-other.html %}
 
 
 You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>. 
