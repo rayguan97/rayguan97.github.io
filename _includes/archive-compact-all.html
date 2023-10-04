@@ -12,7 +12,7 @@
     
     {% assign __list = site.other-publications | sort %}
 
-    {% for post in __list reversed %}
+    {% for post in other-publications reversed %}
       {% if post.header.teaser %}
         {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
       {% else %}
