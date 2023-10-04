@@ -25,5 +25,5 @@ redirect_to:
 {% endfor %}
 
 {% if site.author.googlescholar %}
-You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+You can also find more articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
 {% endif %}

@@ -1,6 +1,6 @@
 
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<table style="font-size:14px;width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
     {% for post in site.publications reversed %}
       {% if post.header.teaser %}
@@ -14,12 +14,12 @@
         {% assign title = post.title %}
       {% endif %}
     <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-      <td style="padding:10px;width:20%;vertical-align:middle">
+      <td style="padding:1px;width:20%;vertical-align:middle">
           <img src="{{ post.teaser }}" alt="N/A" style="border-style: none" width="220">
         </td>
-        <td style="padding:10px;width:80%;vertical-align:middle">
+        <td style="padding:1px;width:80%;vertical-align:middle">
           <p>
-          <papertitle>{{ title }}
+          <papertitle><b>{{ title }}</b>
           </papertitle>
           </p>
           {% if post.authors %}
