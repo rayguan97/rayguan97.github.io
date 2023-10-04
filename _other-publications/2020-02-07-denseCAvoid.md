@@ -4,7 +4,8 @@ collection: other-publications
 permalink: /other-publication/2020-02-07-denseCAvoid
 # excerpt: 'We present DenseCAvoid, a novel algorithm for navigating a robot through dense crowds and avoiding collisions by anticipating pedestrian behaviors. Our formulation uses visual sensors and a pedestrian trajectory prediction algorithm to track pedestrians in a set of input frames and compute bounding boxes that extrapolate to the pedestrian positions in a future time. Our hybrid approach combines this trajectory prediction with a Deep Reinforcement Learning-based collision avoidance method to train a policy to generate smoother, safer, and more robust trajectories during run-time.'
 date: 2020-02-07
-venue: 'IEEE International Conference on Robotics and Automation (ICRA 2020)'
+venue: 'IEEE International Conference on Robotics and Automation'
+short: 'ICRA'
 paperurl: 'https://arxiv.org/abs/2002.03038'
 skip: "yes"
 # teaser: '../images/tnp_teaser.png'

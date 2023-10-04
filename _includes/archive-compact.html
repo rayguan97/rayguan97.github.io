@@ -25,9 +25,13 @@
           {{ post.authors }}
           {% endif %}
           <br>
-          <em>{{ post.venue }} (<strong>{{ post.short }}</strong>), {{ post.date | default: "1900-01-01" | date: "%Y" }}.
+          <em>{{ post.venue }} 
+          {% if post.short %}
+          (<strong>{{ post.short }}</strong>)
+          {% endif %}
+          , {{ post.date | default: "1900-01-01" | date: "%Y" }}.
           {% if post.note %}
-          <strong style="color:red">{{ post.note }}</strong>
+          (<strong style="color:red">{{ post.note }}</strong>)
           {% endif %}
           </em>
           <br>
