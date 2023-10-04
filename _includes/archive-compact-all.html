@@ -10,7 +10,6 @@
       {% assign __list = __list | push: __element %}
     {% endfor %}
 
-    <!-- {% assign __list = __list | sort %} -->
 
     {% for post in __list reversed %}
       {% if post.header.teaser %}
