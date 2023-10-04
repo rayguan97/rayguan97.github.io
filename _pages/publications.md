@@ -13,4 +13,4 @@ author_profile: true
 {% include archive-compact-all.html %}
 
 
-You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>. 
