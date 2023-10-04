@@ -43,7 +43,7 @@ td, th {
 </style>
 
 <div style="height:500px;overflow:auto;">
-<table>
+<table style="border-collapse: collapse;font-size: 18px;border: none;">
 <col width="110px">
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
