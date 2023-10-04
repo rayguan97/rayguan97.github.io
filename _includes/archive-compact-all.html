@@ -3,14 +3,14 @@
 <table style="font-size:15px;width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
     {% assign __list = __empty_array %}
-    {% for __element in site.publications %}
-      {% assign __list = __list | push: __element %}
-    {% endfor %}
     {% for __element in site.other-publications %}
       {% assign __list = __list | push: __element %}
     {% endfor %}
-    
-    <!-- {% assign __list = site.other-publications | sort %} -->
+    {% for __element in site.publications %}
+      {% assign __list = __list | push: __element %}
+    {% endfor %}
+
+    <!-- {% assign __list = __list | sort %} -->
 
     {% for post in __list reversed %}
       {% if post.header.teaser %}
@@ -25,7 +25,7 @@
       {% endif %}
     <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
       <td style="padding:10px;width:25%;vertical-align:middle">
-          <img src="{{ post.teaser }}" alt="N/A" style="border-style: none" width="220">
+          <img src="{{ post.teaser }}" alt="" style="border-style: none" width="220">
         </td>
         <td style="padding:10px;width:75%;vertical-align:middle">
           <papertitle><b>{{ title }}</b>
