@@ -1,6 +1,6 @@
 
 
-<table style="font-size:14px;width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<table style="font-size:8px;width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tbody>
     {% for post in site.publications reversed %}
       {% if post.header.teaser %}
@@ -35,8 +35,9 @@
           <a href="{{ post.permalink }}">[webpage]</a>
           {% endif %}
           {% if post.code %}
-          <a href="{{ post.code }}">[code]</a><br>
+          <a href="{{ post.code }}">[code]</a>
           {% endif %}      
+          <br>
       </td>
     </tr>
     {% endfor %}
