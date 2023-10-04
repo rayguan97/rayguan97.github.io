@@ -26,17 +26,18 @@
           {{ post.authors }}
           {% endif %}
           <br>
-          <em>Conference on Robot Learning (<strong>CoRL</strong>), 2023. <strong style="color:red">(oral, 6.6%)</strong> <span style="text-transform:uppercase">*</span> indicates equal contribution. </em>
+          {{ post.venue }}
           <br>
           {% if post.paperurl %}
-          <a href={{ post.paperurl }}>[paper]</a>
+          <a href="{{ post.paperurl }}">[paper]</a><br>
           {% endif %}
           {% if post.permalink %}
-          <a href={{ post.permalink }}>[webpage]</a>
+          <a href="{{ post.permalink }}">[webpage]</a>
           {% endif %}
           {% if post.code %}
-          <a href={{ post.code }}>[code]</a>
-          {% endif %}      </td>
+          <a href="{{ post.code }}">[code]</a>
+          {% endif %}      
+      </td>
     </tr>
     {% endfor %}
   </tbody>
