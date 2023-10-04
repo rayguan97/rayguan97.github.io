@@ -13,6 +13,9 @@ authors: "Jing Liang, Kasun Weerakoon, <b>Tianrui Guan</b>, Nare Karapetyan, Din
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
+<p style="text-align:center;">
+<img src="../images/adaptiveon_teaser.png" width="800">
+</p>
 
 ## Abstract
 
