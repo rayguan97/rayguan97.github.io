@@ -5,6 +5,7 @@
     {% assign __list = __empty_array %}
     {% for __element in site.publications %}
       {% assign __list = __list | push: __element %}
+    {% endfor %}
     {% for __element in site.other-publications %}
       {% assign __list = __list | push: __element %}
     {% endfor %}
