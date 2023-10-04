@@ -31,7 +31,7 @@
           {% endif %}
           , {{ post.date | default: "1900-01-01" | date: "%Y" }}.
           {% if post.note %}
-          (<strong style="color:red">{{ post.note }}</strong>)
+          <strong style="color:red">{{ post.note }}</strong>
           {% endif %}
           </em>
           <br>
