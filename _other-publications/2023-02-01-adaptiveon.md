@@ -8,7 +8,7 @@ venue: 'IEEE Robotics and Automation Letters'
 short: 'RA-L'
 paperurl: 'https://arxiv.org/abs/2205.03517'
 skip: "yes"
-# teaser: '../images/tnp_teaser.png'
+teaser: '../images/adaptiveon_teaser.png'
 authors: "Jing Liang, Kasun Weerakoon, <b>Tianrui Guan</b>, Nare Karapetyan, Dinesh Manocha"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
@@ -20,7 +20,7 @@ authors: "Jing Liang, Kasun Weerakoon, <b>Tianrui Guan</b>, Nare Karapetyan, Din
 
 <br>
 
-Please cite our work if you found it useful,
+The paper is available [here](https://arxiv.org/abs/2205.03517). Please cite our work if you found it useful,
 
 ```
 @ARTICLE{9991054,

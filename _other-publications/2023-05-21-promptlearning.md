@@ -19,7 +19,7 @@ authors: "Xijun Wang*, Ruiqi Xian*, <b>Tianrui Guan</b>, Dinesh Manocha"
 
 <br>
 
-Please cite our work if you found it useful,
+The paper is available [here](https://arxiv.org/abs/2305.12437). Please cite our work if you found it useful,
 
 ```
 @misc{wang2023prompt,

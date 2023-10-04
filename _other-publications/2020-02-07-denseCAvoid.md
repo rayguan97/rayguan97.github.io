@@ -8,7 +8,7 @@ venue: 'IEEE International Conference on Robotics and Automation'
 short: 'ICRA'
 paperurl: 'https://arxiv.org/abs/2002.03038'
 skip: "yes"
-# teaser: '../images/tnp_teaser.png'
+teaser: '../images/densecavoid_teaser.jpg'
 authors: "Adarsh Jagan Sathyamoorthy*, Jing Liang*, Utsav Patel, <b>Tianrui Guan</b>, Rohan Chandra, and Dinesh Manocha"
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
