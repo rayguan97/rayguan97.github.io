@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 <p style="text-align:center;">
-<img src="../images/hallusion_teaser.png" width="800">
+<img src="../images/hallusion_fig.png" width="800">
 </p>
 
 ## Abstract
