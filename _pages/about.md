@@ -8,21 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-My name is Tianrui Guan (关天瑞), a Ph.D. student at Unviersity of Maryland, College Park, and a group member of [GAMMA](https://gamma.umd.edu/) since 2019. I am advised by Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha).
-I joined the University of Maryland since 2016 as an undergraduate student. I received my B.S. in Computer Science and Statistics at [UMD](https://www.cs.umd.edu/) in 2019 with Magna Cum Laude Latin Honor, and continued as a graduate student in Computer Science. 
+I am a PhD student at Unviersity of Maryland, College Park. I am advised by Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) in [GAMMA group](https://gamma.umd.edu/). I received my B.S. in Computer Science and Statistics at [UMD](https://www.cs.umd.edu/) in 2019 with Magna Cum Laude.
+
+My primary goal is to equip autonomous agents with general and versatile capabilities. To tackle this challenge and connect the dots, I work on the topic of large vision-language model, foundation model for robots, robotic applications, autonomous driving and computer vision. Previously, I did research internships at Amazon Lab126 and Baidu USA, 
+
+Feel free to follow me on [twitter](https://twitter.com/terryguan97) for my latest research!
+
+
+
 
 <!-- Here is my [resume](http://rayguan97.github.io/files/resume.pdf).  -->
 <!-- I'm interested in computer vision, autonomous driving, perception for robotics and visual-languge model (VLM).  -->
-Please feel free to reach out to rayguan [at] umd.edu.
 
-Research Interest
-======
-* Computer Vision
-* Autonomous Driving
-* Robotics and Perception
-* VLM
-
-Please check list of publications [here](http://rayguan97.github.io/publications/).
 
 News
 ======
@@ -74,6 +71,14 @@ td, th {
 
 <br>
 
+
+Research Interest
+======
+* Robotics and Autonomous Driving
+* VLM and Fundation Models
+* Vision and Perception
+
+
 Selected Publications<a id="pub"></a>
 ======
 
@@ -82,6 +87,8 @@ Selected Publications<a id="pub"></a>
 
 {% include archive-compact.html %}
 
+
+Please check full list of publications [here](http://rayguan97.github.io/publications/).
 
 <!-- template -->
 <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
