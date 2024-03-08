@@ -44,6 +44,8 @@ td, th {
 <col width="110px">
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
+  <tr><td><b>Feb 2024:</b></td><td><a style="color:black" href="https://arxiv.org/abs/2310.14566">HallusionBench</a> paper was accepted to <b>CVPR 2024</b>! The data, evaluation and code are available on <a style="color:black" href="https://github.com/tianyi-lab/HallusionBench">GitHub</a>.</td></tr>
+  <tr><td><b>Feb 2024:</b></td><td><a style="color:black" href="/">LOC-ZSON</a> was accepted to <b>ICRA</b> 2024! Will release the report soon!</td></tr>
   <tr><td><b>Oct 2023:</b></td><td> We release an <a style="color:black" href="https://huggingface.co/papers/2310.14566">early report</a> and analysis on failure modes of GPT-4V and LLaVA-1.5. Stay tuned on the release of our dataset <a style="color:black" href="https://huggingface.co/papers/2310.14566">HallusionBench</a>!</td></tr>
   <tr><td><b>Sep 2023:</b></td><td><a style="color:black" href="/graspe">GrASPE</a> paper was accepted to <b>RAL</b>!</td></tr>
   <tr><td><b>Aug 2023:</b></td><td><a style="color:black" href="/iplan">iPlan</a> was accepted to <b>CoRL</b> 2023 with <strong style="color:red">oral (6.6%)</strong> presentation!</td></tr>
