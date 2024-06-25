@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at Unviersity of Maryland, College Park. I am advised by Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) in [GAMMA group](https://gamma.umd.edu/). I received my B.S. in Computer Science and Statistics at [UMD](https://www.cs.umd.edu/) in 2019 with Magna Cum Laude.
 
-My primary goal is to equip autonomous agents with general and versatile capabilities. To tackle this challenge and connect the dots, I work on the topic of large vision-language model, foundation model for robots, robotic applications, autonomous driving and computer vision. Previously, I did research internships at Amazon Lab126 and Baidu USA, 
+My primary goal is to equip autonomous agents with general and versatile capabilities. To tackle this challenge and connect the dots, I work on the topic of large vision-language model, foundation model for robots, robotic applications, autonomous driving and computer vision. Previously, I did research internships at Amazon Lab126 and Baidu USA.
 
 Feel free to follow me on [twitter](https://twitter.com/terryguan97) for my latest research!
 
@@ -40,12 +40,13 @@ td, th {
 </style>
 
 <div style="height:500px;overflow:auto;">
-<table style="border-collapse: collapse;font-size: 18px;border: none;">
+<!-- <table style="border-collapse: collapse;font-size: 18px;border: none;"> -->
+<table style="border-collapse: collapse;font-size: 18px;border: 1px solid black;">
 <col width="110px">
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
   <tr><td><b>Feb 2024:</b></td><td><a style="color:black" href="https://arxiv.org/abs/2310.14566">HallusionBench</a> paper was accepted to <b>CVPR 2024</b>! The data, evaluation and code are available on <a style="color:black" href="https://github.com/tianyi-lab/HallusionBench">GitHub</a>.</td></tr>
-  <tr><td><b>Feb 2024:</b></td><td><a style="color:black" href="/">LOC-ZSON</a> was accepted to <b>ICRA</b> 2024! Will release the report soon!</td></tr>
+  <tr><td><b>Feb 2024:</b></td><td><a style="color:black" href="https://arxiv.org/abs/2405.05363">LOC-ZSON</a> was accepted to <b>ICRA</b> 2024! Will release the report soon!</td></tr>
   <tr><td><b>Oct 2023:</b></td><td> We release an <a style="color:black" href="https://huggingface.co/papers/2310.14566">early report</a> and analysis on failure modes of GPT-4V and LLaVA-1.5. Stay tuned on the release of our dataset <a style="color:black" href="https://huggingface.co/papers/2310.14566">HallusionBench</a>!</td></tr>
   <tr><td><b>Sep 2023:</b></td><td><a style="color:black" href="/graspe">GrASPE</a> paper was accepted to <b>RAL</b>!</td></tr>
   <tr><td><b>Aug 2023:</b></td><td><a style="color:black" href="/iplan">iPlan</a> was accepted to <b>CoRL</b> 2023 with <strong style="color:red">oral (6.6%)</strong> presentation!</td></tr>
