@@ -29,7 +29,16 @@ News
     font-size: 18px!important;
     border: none!important;
 } */
-td, th {
+td {
+    border: none!important;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    vertical-align: top;
+  /* padding-left: 30px;
+  padding-right: 40px; */
+}
+
+th {
     border: none!important;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -40,8 +49,8 @@ td, th {
 </style>
 
 <div style="height:500px;overflow:auto;">
-<!-- <table style="border-collapse: collapse;font-size: 18px;border: none;"> -->
-<table style="border-collapse: collapse;font-size: 18px;border: 1px solid black;">
+<table style="border-collapse: collapse;font-size: 18px;border: none;">
+<!-- <table style="border-collapse: collapse;font-size: 18px;border: 1px solid black;"> -->
 <col width="110px">
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
