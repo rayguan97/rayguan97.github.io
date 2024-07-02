@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at Unviersity of Maryland, College Park. I am advised by Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) in [GAMMA group](https://gamma.umd.edu/). I received my B.S. in Computer Science and Statistics at [UMD](https://www.cs.umd.edu/) in 2019 with Magna Cum Laude.
 
-My primary goal is to equip autonomous agents with general and versatile capabilities. To tackle this challenge and connect the dots, I work on the topic of large vision-language model, foundation model for robots, robotic applications, autonomous driving and computer vision. Previously, I did research internships at Amazon Lab126 and Baidu USA.
+My primary goal is to equip autonomous agents with general and versatile capabilities. To tackle this challenge and connect the dots, I work on the topic of large vision-language model, foundation model for robots, robotic applications, autonomous driving and computer vision. Previously, I did research internships at Amazon Lab126 and Baidu USA. My CV can be found [here](https://tianruiguan.phd/files/resume.pdf).
 
 Feel free to follow me on [twitter](https://twitter.com/terryguan97) for my latest research!
 
