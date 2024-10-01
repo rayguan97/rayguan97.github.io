@@ -54,6 +54,8 @@ th {
 <col width="110px">
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
+  <tr><td><b>Sep 2024:</b></td><td><a style="color:black" href="https://wuxiyang1996.github.io/autohallusion_page/?utm_source=aitidbits.substack.com&utm_medium=newsletter">AUTOHALLUSION</a> paper was accepted to <b>EMNLP 2024</b>! The data, evaluation and code are available on <a style="color:black" href="https://github.com/wuxiyang1996/AutoHallusion">GitHub</a>.</td></tr>
+  <tr><td><b>Jun 2024:</b></td><td>Three papers were accepted to <b>IROS 2024</b> this year!</td></tr>
   <tr><td><b>May 2024:</b></td><td>Returning to <b>Amazon Lab126</b> as a Research Scientist Intern!</td></tr>
   <tr><td><b>Feb 2024:</b></td><td><a style="color:black" href="https://arxiv.org/abs/2310.14566">HallusionBench</a> paper was accepted to <b>CVPR 2024</b>! The data, evaluation and code are available on <a style="color:black" href="https://github.com/tianyi-lab/HallusionBench">GitHub</a>.</td></tr>
   <tr><td><b>Feb 2024:</b></td><td><a style="color:black" href="https://arxiv.org/abs/2405.05363">LOC-ZSON</a> was accepted to <b>ICRA</b> 2024!</td></tr>
@@ -65,7 +67,7 @@ th {
   <tr><td><b>May 2023:</b></td><td><a style="color:black" href="https://link.springer.com/article/10.1007/s10514-023-10113-9">TNES</a> was accepted to <b>Autonomous Robots</b>, Springer Nature!</td></tr>
   <tr><td><b>May 2023:</b></td><td>Started as a Research Scientist Intern at <b>Amazon Lab126</b>!</td></tr>
   <tr><td><b>Jan 2023:</b></td><td><a style="color:black" href="/vinet">VINet</a> and <a style="color:black" href="/aztr">AZTR</a> were accepted to <b>ICRA</b> 2023!</td></tr>
-  <tr><td><b>Dec 2022:</b></td><td>Two paper was accepted to <b>RAL</b> this year!</td></tr>
+  <tr><td><b>Dec 2022:</b></td><td>Two papers were accepted to <b>RAL</b> this year!</td></tr>
   <tr><td><b>Jul 2022:</b></td><td>One paper was accepted to <b>ECCV</b> 2022!</td></tr>
   <tr><td><b>May 2022:</b></td><td>Presented my work on <b>ICRA</b> 2022, construction workshop!</td></tr>
   <tr><td><b>May 2022:</b></td><td>Started as a Research Scientist Intern at <b>Robotics and Autonomous Driving Lab</b>, Baidu USA!</td></tr>
@@ -75,7 +77,7 @@ th {
   <tr><td><b>Jun 2021:</b></td><td>One paper was accepted to <b>IROS</b> 2022!</td></tr>
   <tr><td><b>Jun 2021:</b></td><td>One paper was accepted to <b>RAL</b>!</td></tr>
   <tr><td><b>May 2021:</b></td><td>Started as a Research Scientist Intern at <b>Robotics and Autonomous Driving Lab</b>, Baidu USA!</td></tr>
-  <tr><td><b>Dec 2020:</b></td><td>Two paper was accepted to <b>RAL</b> this year!</td></tr>
+  <tr><td><b>Dec 2020:</b></td><td>Two papers were accepted to <b>RAL</b> this year!</td></tr>
   <tr><td><b>Jan 2020:</b></td><td>One paper was accepted to <b>ICRA</b>!</td></tr>
   <tr><td><b>Aug 2019:</b></td><td>Started MS at University of Maryland, College Park!</td></tr>
   <tr><td><b>May 2019:</b></td><td>Started at GAMMA Lab as a ugrad and worked on TrackNPred!</td></tr>
