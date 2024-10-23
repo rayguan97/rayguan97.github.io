@@ -36,7 +36,7 @@ Please cite our work if you found it useful,
 ```
 @inproceedings{
 wu2024autohallusion,
-title={{AUTOHALLUSION}: Automatic Generation of Hallucination Benchmarks for Vision-Language Models},
+title={AutoHallusion: Automatic Generation of Hallucination Benchmarks for Vision-Language Models},
 author={Wu, Xiyang and Guan, Tianrui and Li, Dianqi and Huang, Shuaiyi and Liu, Xiaoyu and Wang, Xijun and Xian, Ruiqi and Shrivastava, Abhinav and Huang, Furong and Boyd-Graber, Jordan Lee and others},
 booktitle={The 2024 Conference on Empirical Methods in Natural Language Processing},
 year={2024},
