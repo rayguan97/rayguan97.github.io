@@ -7,7 +7,7 @@ date: 2023-05-21
 venue: 'The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems'
 short: 'IROS'
 paperurl: 'https://arxiv.org/abs/2305.12437'
-teaser: '/images/promptlearning_cover.png'
+teaser: '/images/promptlearning_pipeline.png'
 skip: "yes"
 # teaser: '../images/tnp_teaser.png'
 authors: "Xijun Wang*, Ruiqi Xian*, <b>Tianrui Guan</b>, Fuxiao Liu, Dinesh Manocha"
