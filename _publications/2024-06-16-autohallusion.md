@@ -27,6 +27,8 @@ redirect_from:
 ## Video
 <iframe width="720" height="405" src="https://www.youtube.com/embed/E5ING-P5oJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+
 |Paper|Code| Project Website | Video | 
 |---|---|---|---|
 | [**AutoHallusion**](https://arxiv.org/abs/2406.10900) | [**Code**](https://github.com/wuxiyang1996/AutoHallusion) | [**Project Website**](https://wuxiyang1996.github.io/autohallusion_page/) | [**Video**](https://youtu.be/E5ING-P5oJM) |
