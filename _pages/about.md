@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Unviersity of Maryland, College Park. I am advised by Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) in [GAMMA group](https://gamma.umd.edu/). I received my B.S. in Computer Science and Statistics at [UMD](https://www.cs.umd.edu/) in 2019 with Magna Cum Laude.
+I’m a Research Engineer at Waymo, where I work on advancing the capabilities of autonomous systems. I received my Ph.D. in Computer Science from the University of Maryland, College Park, advised by Prof. [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) in the [GAMMA group](https://gamma.umd.edu/). I earned my B.S. in Computer Science and Statistics from [UMD](https://www.cs.umd.edu/) in 2019, graduating Magna Cum Laude.
 
-My primary goal is to equip autonomous agents with general and versatile capabilities. To tackle this challenge and connect the dots, I work on the topic of large vision-language model, foundation model for robots, robotic applications, autonomous driving and computer vision. Previously, I did research internships at Amazon Lab126 and Baidu USA. My CV can be found [here](https://tianruiguan.phd/files/resume.pdf).
+My research focuses on equipping autonomous agents with general and adaptable intelligence. To this end, I work at the intersection of large vision-language models, robotic foundation models, autonomous driving, and core computer vision. I have also completed research internships at Amazon Lab126 and Baidu USA.
 
-Feel free to follow me on [twitter](https://twitter.com/terryguan97) for my latest research!
+You can find my CV [here](https://tianruiguan.phd/files/resume.pdf). Follow me on [X](https://x.com/terryguan97) for updates on my latest research!
 
 
 
@@ -54,6 +54,11 @@ th {
 <col width="110px">
 <!-- <col width="630px"> -->
   <!-- <tr><td><b>Timeline</b></td><td><b>Updates</b></td></tr> -->
+  <tr><td><b>Jul 2025:</b></td><td>Started as a Research Engineer at <b>Waymo</b>!</td></tr>
+  <tr><td><b>Jun 2025:</b></td><td>One paper was accepted to <b>IROS 2025</b> this year!</td></tr>
+  <tr><td><b>Mar 2025:</b></td><td>One paper was accepted to <b>CVPR 2025</b> this year!</td></tr>
+  <tr><td><b>Jan 2025:</b></td><td>One paper was accepted to <b>NAACL 2025</b> this year!</td></tr>
+  <tr><td><b>Jan 2025:</b></td><td>Two papers were accepted to <b>ICRA 2025</b> this year!</td></tr>
   <tr><td><b>Sep 2024:</b></td><td><a style="color:black" href="https://wuxiyang1996.github.io/autohallusion_page/?utm_source=aitidbits.substack.com&utm_medium=newsletter">AUTOHALLUSION</a> paper was accepted to <b>EMNLP 2024</b>! The data, evaluation and code are available on <a style="color:black" href="https://github.com/wuxiyang1996/AutoHallusion">GitHub</a>.</td></tr>
   <tr><td><b>Jun 2024:</b></td><td>Three papers were accepted to <b>IROS 2024</b> this year!</td></tr>
   <tr><td><b>May 2024:</b></td><td>Returning to <b>Amazon Lab126</b> as a Research Scientist Intern!</td></tr>
